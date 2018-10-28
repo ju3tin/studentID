@@ -1,18 +1,7 @@
 # Student Identification 
-Imagine you are a car manufacturer, and have just made your most desired concept car a reality for the public. Hundreds of thousands of orders are pouring in and you need a way to manage the manufacturing and assembly process of these orders in an automated fashion. Moreover, you need keep a record of all of the company's business dealings to ensure that they conform to the regulator's standards and you are prepared for auditing. Blockchain means that these regulatory rules are embodied by code in a smart contract and thus a company can ensure that by recording these dealings using that smart contract in the blockchain, they are meeting the requirements laid out and the blockchain provides a full record for audit.
+Imagine you are a student looking for your first job and you have many differant qualitifications from High School to Univercity.
 
-In this code pattern, we will create a vehicle manufacturing program with blockchain using Hyperledger Composer, and demonstrate it through a Node.js web application. The application showcases the scenario of buying and manufacturing a vehicle.
-
-It has three dashboards. One for the vehicle buyer, where they can view the catalog of vehicles, personalize their selection and make the purchase. The second dashboard view is for the manufacturer where they can see the car purchase requests made, track the process of the car manufacture and verify delivery status details. The third dashboard is for vehicle regulatory officer where they regulate car manufacture and can view the full list of transactions recorded on the blockchain.
-
-As the vehicle is assembled, components like the chassis and interior will be built or installed, and the blockchain assets will be updated. Finally, the vehicle identification number, VIN, can be automatically assigned in accordance with a smart contract, without manual regulator approval, retaining regulatory oversight.
-
-This code pattern is for developers looking to start building blockchain applications with Hyperledger Composer. When the reader has completed this code pattern, they will understand how to:
-* Create basic business network using Hyperledger Composer
-* Deploy the network to IBM Blockchain Starter Plan manually
-* Build a Node.js web application to interact with the blockchain network using Composer
-
-The tutorial instructions will run along side the demo once deployed, you can also view them [here](apps/vehicle-manufacture/tutorial.md)
+In this code pattern, we will create a student ID with blockchain using Hyperledger Composer, and demonstrate it through a Node.js web application. The application showcases the scenario of adding a studetn to the blockchain.
 
 # Architecture Flow
 ![Architecture Flow](docs/doc-images/arch-flow.png?raw=true)
