@@ -20,7 +20,7 @@ namespace org.acme.vehicle_network
 
 // BASE DEFINTIONS
 
-concept VehicleDetails {
+concept VehicleDetailas {
   --> Manufacturer make
   o String modelType
   o String colour
