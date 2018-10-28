@@ -4,7 +4,7 @@ Imagine you are a student looking for your first job and you have many differant
 In this code pattern, we will create a student ID with blockchain using Hyperledger Composer, and demonstrate it through a Node.js web application. The application showcases the scenario of adding a studetn to the blockchain.
 
 # Architecture Flow
-![Architecture Flow](docs/doc-images/arch-flow.png?raw=true)
+![Architecture Flow](media/arch-flow.png?raw=true)
 
 1. The buyer of the vehicle views the catalog of cars on his dashboard.
 2. They personalize the vehicle by selecting model, exterior and interior options and other packages/add-ons available withthe vehicle.
